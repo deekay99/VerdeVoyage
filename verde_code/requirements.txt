@@ -1,0 +1,10 @@
+# VerdeVoyage Project: External Python Libraries
+
+# Calculations
+numpy
+
+# Graphics and Data Visualization
+plotly>=5.18.0
+
+# Code Quality and Testing
+python-ta~=2.7.0
